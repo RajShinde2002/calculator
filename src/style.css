@@ -44,5 +44,10 @@ body{
 
 button{
     background: #BFCFE7;
+    font-size: 1.25rem;
+}
+
+button:hover{
+    background: #EEF5FF;
 }
 
